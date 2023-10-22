@@ -1,0 +1,5 @@
+---
+ - name: Deploy war  
+   hosts: server
+   roles:
+     - role: tomcat_ser
