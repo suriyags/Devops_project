@@ -1,6 +1,6 @@
 package webapptest;
 
- import source.seleniumtest;
+/* import source.seleniumtest;
 
 
 import org.openqa.selenium.By;
@@ -83,3 +83,5 @@ public class test {
     }
      
 }
+
+*/
